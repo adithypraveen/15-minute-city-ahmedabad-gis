@@ -2,7 +2,7 @@
 
 An end-to-end GIS spatial assessment evaluating pedestrian accessibility to core daily amenities in Central Ahmedabad using OpenStreetMap (OSM) data and QGIS network analysis.
 
-![15-Minute City Walkability Map](Ahmedabad15mins.jpg)
+![15-Minute City Walkability Map](Ahmedabad15mins.jpeg)
 
 ---
 
