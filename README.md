@@ -15,4 +15,4 @@ An end-to-end GIS spatial assessment evaluating pedestrian accessibility to core
 
 ## 📄 Full Report
 For the complete technical methodology, spatial architecture, and empirical findings, read the full report in this repository:
-👉 [Read the Full Report](15_Minute_City_Ahmedabad_Report.pdf)
+👉 [Read the Full Report](15_Minute_City_Walkability_Index_Report.pdf)
